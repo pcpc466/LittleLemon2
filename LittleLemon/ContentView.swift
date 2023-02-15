@@ -10,8 +10,8 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-           
             Text("Hello, modern git !!")
+            Text("It was fun learing git in both the fashions")
         }
         .padding()
     }
